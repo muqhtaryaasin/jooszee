@@ -2205,6 +2205,13 @@ body {
 .a5 {
   background-image: url("https://images.pexels.com/photos/220994/pexels-photo-220994.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"); 
 }
+
+.a6 {
+  background-image: url(/assets/images/jooszee-tiktok1.png);
+}
+.a7 {
+  background-image: url(/assets/images/jooszee-tiktok2.png);
+}
 p {
   font-weight: normal;
   font-family: 'Exo 2', sans-serif;
